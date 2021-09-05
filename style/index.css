@@ -14,7 +14,9 @@ header {
    align-items: center;
    padding: 22px 0;
 }
-
+.header-img{
+   margin-left: 90px;
+}
 a {
    text-decoration: none;
 }
