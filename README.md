@@ -1,1 +1,1 @@
-https://frontjedi.github.io/Eats/
+ https://frontjedi.github.io/Eats/
