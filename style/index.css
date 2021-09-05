@@ -45,7 +45,7 @@ a {
 
 /* ==================== main-one ==================== */
 .main-bgimg__one {
-   background-image: url("/img/main-img.png");
+   background-image: url("../img/main-img.png");
    height: 619px;
 }
 .one-titel__head {
@@ -186,7 +186,7 @@ a {
 
 /* ==================== main-three ==================== */
 .main-bgimg__three {
-   background-image: url("/img/main-img-2.png");
+   background-image: url("../img/main-img-2.png");
    height: 516px;
 }
 .three-titel {
